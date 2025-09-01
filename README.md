@@ -1,1 +1,1 @@
-#Hello gethub communite in my first project
+#Hello gethub community in my first project
